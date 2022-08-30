@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Edoardo. I am an International student from Italy studyingInformation Science at the University of Arizona.
+- 👋 Hi, I’m Edoardo. I am an International student from Italy studying Information Science at the University of Arizona.
 - 👀 I’m interested in Data Science and Data Engineering.
 - 🌱 I’m currently learning Machine Learning and Data Mining.
 - 💞️ I’m looking to start some personal Data Science projects. To fill up my portfolio.
